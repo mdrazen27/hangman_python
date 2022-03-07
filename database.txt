@@ -1,0 +1,8 @@
+category, word_to_guess
+mountain, andes
+thing, dice
+food, pineapple
+thing, candle
+place, niagara falls
+place, niagara falls
+place, niagara falls
