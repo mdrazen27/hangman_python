@@ -4,5 +4,5 @@ thing, dice
 food, pineapple
 thing, candle
 place, niagara falls
-place, niagara falls
-place, niagara falls
+video game, league of legends
+tv show, dr house
